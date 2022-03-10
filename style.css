@@ -2,6 +2,14 @@ h1,h2{
   color: gold;
 }
 
+.myDiv{
+  background-color: lightgrey;
+}
+
+h3{
+  color: rgb(83, 136, 248);
+}
+
 .input_area{
   width: 100%;
   display: flex;
@@ -38,4 +46,9 @@ button{
 
 button:hover{
   cursor: pointer;
+}
+
+
+.volume{
+  range: 0%;
 }

@@ -19,3 +19,7 @@ function calculate() {
       window.alert("Você está com obesidade mórbida")
   };
 }
+
+var video = document.querySelector("#myVideo");
+
+video.addEventListener()
